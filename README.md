@@ -1,4 +1,3 @@
-![1](https://www.metropolia.fi/sites/default/files/styles/max_300_auto/public/carousel/2019-11/ahlsell.png)
 ![img.png](image%2Fimg.png)
 ![img_1.png](image%2Fimg_1.png)
 ![img_2.png](image%2Fimg_2.png)
